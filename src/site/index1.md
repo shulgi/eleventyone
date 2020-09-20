@@ -6,5 +6,5 @@ layout: layouts/base.njk
 ---
 
 
-## This site is an ending point
+## center image here
 
